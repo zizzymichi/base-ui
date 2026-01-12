@@ -35,5 +35,3 @@ This repository contains the source code and documentation for Base UI: a headl
 
 - Commit messages follow the format `[scope] Imperative summary` (for example `[popover] Fix focus trap`). Choose scopes that mirror package or component names that were changed.
 - Use `[all components]` scope for changes that broadly affect most components.
-
-Commit this code.
